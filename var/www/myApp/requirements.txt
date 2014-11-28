@@ -1,0 +1,10 @@
+Flask
+sqlalchemy
+flask-admin
+itsdangerous
+Werkzeug
+Flask-SQLAlchemy
+flask-httpauth
+passlib
+psycopg2
+Pillow
